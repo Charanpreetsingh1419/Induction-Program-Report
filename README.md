@@ -8,7 +8,5 @@ This repository contains my report for the Induction Program held at Guru Nanak 
 - **Registration Number:** 25101199  
 - **Mobile:** 9781745532  
 - **Email:** charanpreetsingh856@gmail.com
-(day 1.jpg)
-
-It was a memorable day where we were warmly welcomed to the GNDEC family.
+![Image](day1.jpg)
 
