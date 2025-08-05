@@ -53,6 +53,13 @@ Overall, Day 3 was filled with valuable insights from both moral and technical p
 
 ---
 
+## Day 5 (05 August 2025)
+
+Today at GNDEC, we gathered in the auditorium for an informative and engaging session on **Millets – The Super Food**. The speaker explained how millets are not only rich in nutrients like fiber, iron, and calcium but also environmentally friendly due to their low water requirements. We learned about their role in maintaining health, supporting sustainable agriculture, and why they are being promoted globally as a smart food choice. It was eye-opening to see how traditional grains can contribute to modern health and wellness.
+
+
+---
+
 ##  Remarks About the Induction Program
 
 The welcome at GNDEC and the Induction Program as a whole were extremely valuable. It gave me a taste of college life and helped me understand how to take advantage of everything the campus has to offer. I learned about the college's vision, its achievements, and the support system available to students.
