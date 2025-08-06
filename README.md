@@ -57,6 +57,15 @@ Overall, Day 3 was filled with valuable insights from both moral and technical p
 
 Today at GNDEC, we gathered in the auditorium for an informative and engaging session on **Millets – The Super Food**. The speaker explained how millets are not only rich in nutrients like fiber, iron, and calcium but also environmentally friendly due to their low water requirements. We learned about their role in maintaining health, supporting sustainable agriculture, and why they are being promoted globally as a smart food choice. It was eye-opening to see how traditional grains can contribute to modern health and wellness.
 
+---
+
+## Day 6 (06 August 2025)
+
+Today at GNDEC, the day began with a powerful session in the **Auditorium**, where we attended three insightful lectures. The first one was by **Dr. Parminder Singh**, Dean of Student Welfare, who welcomed us and spoke about student development. This was followed by an engaging session on **“Fitness for Engineers”** by **Mr. Manpreet Singh**, emphasizing the importance of physical and mental health in academic life. The final auditorium lecture was delivered by **Brigadier P.S. Cheema Sir**, who shared real-life leadership experiences and valuable lessons about discipline, courage, and integrity.
+
+In the later part of the day, we attended our **English** class with **Prof. Nisha**, where we explored grammar and communication techniques. This was followed by a **Physics** lecture conducted by **Prof. Amarjot Kaur**, where we delved deeper into foundational concepts relevant to engineering.
+
+Overall, today was a highly informative and inspiring day filled with learning from respected speakers and continued academic growth in the classroom.
 
 ---
 
