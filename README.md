@@ -11,7 +11,7 @@ This repository contains my report for the Induction Program held at Guru Nanak 
 ![Image](day1.jpg)
 ## Day 1 (30 July 2025 – Electrical Engineering)
 
-I was eagerly waiting for today — it was my first day in college (GNDEC). The day started with a welcome talk by our respected Principal Sir. He told us about the role of discipline, passion, and enthusiasm in shaping a better future. I was surprised to learn that the college was established in 1956 and is now celebrating its 70th anniversary. 
+I was eagerly waiting for today — it was my first day in college (GNDEC). The day started with a kirtan at gurdwara on 8:30and then after that  there was program of tea and snacks and after then there was a welcome talk by our respected Principal Sir in the auditorium. He told us about the role of discipline, passion, and enthusiasm in shaping a better future. I was surprised to learn that the college was established in 1956 and is now celebrating its 70th anniversary. 
 
 The guest speaker said that engineering is fascinating and not just about machines and code, but about solving real-world problems with creativity and courage. I also met a few classmates, whom I didn't know in the morning, but by the end of the session, I had already started bonding with them. 
 
@@ -37,7 +37,7 @@ After UHV, we attended our **C++ programming class**, where we were introduced t
 
 Later in the day, we had our **Physics class**, where we discussed core concepts related to motion and measurement. The teacher explained how these fundamentals apply to real-world engineering. It made the subject more meaningful and showed how Physics is essential for all branches of engineering.
 
-Overall, Day 3 was a great blend of moral understanding and technical education. I found it both enlightening and motivating.
+Overall, Day 3 was a great day on  understanding and technical education.
 
 ---
 
@@ -66,6 +66,17 @@ Today at GNDEC, the day began with a powerful session in the **Auditorium**, whe
 In the later part of the day, we attended our **English** class with **Prof. Nisha**, where we explored grammar and communication techniques. This was followed by a **Physics** lecture conducted by **Prof. Amarjot Kaur**, where we delved deeper into foundational concepts relevant to engineering.
 
 Overall, today was a highly informative and inspiring day filled with learning from respected speakers and continued academic growth in the classroom.
+
+---
+## Day 7 (07 August 2025)
+
+Today at GNDEC, the day began with a **Mathematics lecture** by Prof. Sukhminder Singh, where we practiced problem-solving techniques and explored new concepts relevant to engineering applications. 
+
+Following that, we had a **Physics lecture** by Prof. Jaspreet Singh, where we started the chapter on **Electromagnetism**. The class was engaging, and we gained a deeper understanding of how electric and magnetic fields interact — a fundamental topic for Electrical Engineering.
+
+Later in the day, we attended two **motivational and insightful lectures** in the **auditorium**. The first was by **Dr. Lakhvir Singh Khana (Incharge – CML)**, followed by a session by **Dr. Jasvir Singh Grewal (Incharge – NSS)**. Both speakers emphasized the importance of leadership, discipline, and personal development alongside academics.
+
+Overall, it was a day filled with technical learning and personal inspiration.
 
 ---
 
