@@ -5,7 +5,7 @@ This repository contains my report for the Induction Program held at Guru Nanak 
 ## Student Information
 - **Name:** Charanpreet Singh  
 - **Branch:** Electrical Engineering  
-- **Registration Number:** 25101199  
+- **Registration Number:** 25101199  ggggg
 - **Mobile:** 9781745532  
 - **Email:** charanpreetsingh856@gmail.com
 ![Image](day1.jpg)
