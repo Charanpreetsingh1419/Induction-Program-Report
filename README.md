@@ -29,19 +29,7 @@ Overall, it was an enjoyable and motivating day that helped us learn while havin
 
 ---
 
-## Day 3 (03 August 2025)
-
-The third day of the Induction Program at GNDEC was both engaging and educational. We began our day with a session on **Universal Human Values (UHV)**, where we explored reflections on clarity of thoughts, inner harmony, and responsibility. Dr. Priya Darshini Madam emphasized the importance of aligning our goals with purpose and how being a good human being is the foundation of being a good engineer.
-
-After UHV, we attended our **C++ programming class**, where we were introduced to input/output statements using `cin` and `cout`. We practiced writing a basic program to display our name using `cout`, which helped us understand the structure of a C++ program. The session sparked our interest in programming and logic building.
-
-Later in the day, we had our **Physics class**, where we discussed core concepts related to motion and measurement. The teacher explained how these fundamentals apply to real-world engineering. It made the subject more meaningful and showed how Physics is essential for all branches of engineering.
-
-Overall, Day 3 was a great day on  understanding and technical education.
-
----
-
-##  Day 4 (03 August 2025)
+##  Day 3 (03 August 2025)
 
 The third day of the Induction Program at GNDEC was both engaging and educational. We began our day with a session on **Universal Human Values (UHV)**, where we explored deeper reflections on clarity of thoughts, inner harmony, and our responsibility towards others. Dr. Priya Darshini Madam emphasized the importance of aligning our goals with a sense of purpose and how being a good human being forms the foundation of being a good engineer. Her words were thoughtful and inspiring, reminding us that values and emotions play a key role in our academic and personal growth.
 
@@ -53,13 +41,13 @@ Overall, Day 3 was filled with valuable insights from both moral and technical p
 
 ---
 
-## Day 5 (05 August 2025)
+## Day 4 (05 August 2025)
 
 Today at GNDEC, we gathered in the auditorium for an informative and engaging session on **Millets – The Super Food**. The speaker explained how millets are not only rich in nutrients like fiber, iron, and calcium but also environmentally friendly due to their low water requirements. We learned about their role in maintaining health, supporting sustainable agriculture, and why they are being promoted globally as a smart food choice. It was eye-opening to see how traditional grains can contribute to modern health and wellness.
 
 ---
 
-## Day 6 (06 August 2025)
+## Day 5 (06 August 2025)
 
 Today at GNDEC, the day began with a powerful session in the **Auditorium**, where we attended three insightful lectures. The first one was by **Dr. Parminder Singh**, Dean of Student Welfare, who welcomed us and spoke about student development. This was followed by an engaging session on **“Fitness for Engineers”** by **Mr. Manpreet Singh**, emphasizing the importance of physical and mental health in academic life. The final auditorium lecture was delivered by **Brigadier P.S. Cheema Sir**, who shared real-life leadership experiences and valuable lessons about discipline, courage, and integrity.
 
@@ -68,7 +56,7 @@ In the later part of the day, we attended our **English** class with **Prof. Nis
 Overall, today was a highly informative and inspiring day filled with learning from respected speakers and continued academic growth in the classroom.
 
 ---
-## Day 7 (07 August 2025)
+## Day 6 (07 August 2025)
 
 Today at GNDEC, the day began with a **Mathematics lecture** by Prof. Sukhminder Singh, where we practiced problem-solving techniques and explored new concepts relevant to engineering applications. 
 
